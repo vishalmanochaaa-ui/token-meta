@@ -1,0 +1,7 @@
+{
+  "name": "MyToken",
+  "symbol": "MYT",
+  "description": "This is my custom Solana token",
+  "image": "https://example.com/logo.png",
+  "external_url": "https://example.com"
+}
