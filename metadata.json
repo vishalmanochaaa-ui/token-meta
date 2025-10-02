@@ -1,6 +1,13 @@
 {
   "name": "MyToken",
   "symbol": "MYT",
-  "description": "This is my custom Solana token",
-  "image": "https://github.com/vishalmanochaaa-ui/token-meta/blob/main/tree.jpg"
+  "uri": "https://github.com/vishalmanochaaa-ui/token-meta/blob/main/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "Be9jm2kmaN6XHHqsa7EL5qCQMqXKKmdQ21Sbm1wSseJd",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
