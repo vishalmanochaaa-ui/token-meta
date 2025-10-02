@@ -1,0 +1,6 @@
+{
+  "name": "MyToken",
+  "symbol": "MYT",
+  "description": "This is my custom Solana token",
+  "image": "https://github.com/vishalmanochaaa-ui/token-meta/blob/main/tree.jpg"
+}
