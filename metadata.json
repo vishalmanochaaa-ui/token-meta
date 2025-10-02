@@ -1,7 +1,7 @@
 {
   "name": "MyToken",
   "symbol": "MYT",
-  "uri": "https://github.com/vishalmanochaaa-ui/token-meta/blob/main/metadata.json",
+  "uri": "https://github.com/vishalmanochaaa-ui/token-meta/blob/main/metadata1.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
@@ -11,3 +11,4 @@
     }
   ]
 }
+
